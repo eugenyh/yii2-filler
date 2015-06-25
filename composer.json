@@ -1,0 +1,18 @@
+{
+    "name": "eugenyho/filler",
+    "description": "Yii 2 helper for inflect russians names, using yandex API",
+    "keywords": ["yii", "yii2", "helpers", "inflect", "eugenyho"],
+    "type": "yii2-helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eugenyho",
+            "email": "eugenyh@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "eugenyho\\helpers\\": ""
+        }
+    }
+}
